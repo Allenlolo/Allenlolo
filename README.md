@@ -20,8 +20,8 @@ Built and deployed a website based on an original idea to solve a personal probl
 
 ## Elsewhere
 
-- YouTube：
-- X：
+- [YouTube](https://www.youtube.com/@Magild1225)
+- [X](https://x.com/thisisallon)
 
 ## Timeline
 
@@ -57,7 +57,7 @@ Explored emerging AI tools and products, including Google AI, NotebookLM, and ot
 
 **March** — Successfully deployed my website and made it publicly accessible worldwide. The project explores a practical way to help people improve their mental well-being.
 
-**2026** — Traveled to Kunming and spent time in Dali while continuing to learn and build.
+**March** — Traveled to Kunming and spent time in Dali while continuing to learn and build.
 
 **July** — Left Kunming and continued exploring new environments and opportunities.
 

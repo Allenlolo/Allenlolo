@@ -1,6 +1,27 @@
 # Hi, I'm Allen
 
-I learn by building.
+I’m a self-taught programmer and AI/product builder. I learn by identifying problems, teaching myself what I need, and building practical solutions.
+
+## Projects
+
+### Energy
+Built an AI-powered "scout" that continuously monitors specified websites and sends a notification when a defined change occurs.
+
+
+**Video:** [https://www.youtube.com/watch?v=D0SkYx9fuLk]
+
+### My first website
+Built and deployed a website based on an original idea to solve a personal problem, using self-directed learning to develop the skills needed to bring the idea from concept to a publicly accessible product.
+
+
+**URL:** [https://allen2412.great-site.net]
+
+
+
+## Elsewhere
+
+- YouTube：
+- X：
 
 ## Timeline
 
